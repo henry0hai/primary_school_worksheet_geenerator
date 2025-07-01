@@ -65,76 +65,15 @@ cd primary_school_worksheet_generator
 pip install -r requirements.txt
 ```
 
-### Option 1: Using the Package API
-```python
-import worksheet_generator
-
-# Quick math worksheet
-worksheet_generator.create_math_worksheet(
-    age_group="6-7", 
-    num_questions=20,
-    student_name="Sarah"
-)
-
-# Comprehensive assessment  
-worksheet_generator.create_comprehensive_assessment(
-    age_group="8-10",
-    num_questions=30,
-    student_name="Alex"
-)
-```
-
-### Option 2: Command Line Interface
+### Option 1: Command Line Interface
 ```bash
 # Interactive CLI
 python cli.py
-
-# Direct command with options
-python cli.py --subject comprehensive --age "6-7" --questions 25 --name "Emma"
 ```
 
-### Option 3: Demo Mode (See all features)
+### Option 2: Demo Mode (See all features)
 ```bash
 python demo.py                    # Basic demo
-python demo_comprehensive.py     # Comprehensive assessment demo
-```
-
-## Usage Examples 📝
-
-### Generate Different Subject Worksheets
-```bash
-# Math worksheet for ages 4-5 (20 questions)
-python cli.py --subject math --age "4-5" --questions 20
-
-# Logic worksheet for ages 6-7 (15 questions)  
-python cli.py --subject logic --age "6-7" --questions 15
-
-# Reading worksheet for ages 8-10 (25 questions)
-python cli.py --subject reading --age "8-10" --questions 25
-
-# Comprehensive assessment (mixed subjects, 30 questions)
-python cli.py --subject comprehensive --age "6-7" --questions 30
-```
-
-### Using the Python API
-```python
-from worksheet_generator import MathGenerator, PDFGenerator
-
-# Create generators
-math_gen = MathGenerator()
-pdf_gen = PDFGenerator()
-
-# Generate problems
-problems = math_gen.generate_problems(age_group="6-7", count=20)
-
-# Create PDF
-pdf_gen.generate_worksheet(
-    subject="math",
-    age_group="6-7", 
-    problems=problems,
-    output_filename="math_worksheet.pdf",
-    student_name="Student Name"
-)
 ```
 
 ## Testing 🧪
