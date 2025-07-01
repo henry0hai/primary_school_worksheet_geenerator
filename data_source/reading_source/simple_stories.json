@@ -1,0 +1,274 @@
+{
+  "simple_stories": [
+    {
+      "title": "The Little Cat",
+      "text": "Mimi is a small black cat. She likes to play with a red ball. Every morning, Mimi drinks milk and eats fish. She sleeps in a cozy basket by the window. Mimi loves sunny days because she can sit in the warm sunlight.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "What color is Mimi?",
+          "answer": "black",
+          "type": "detail"
+        },
+        {
+          "question": "What does Mimi like to play with?",
+          "answer": "a red ball",
+          "type": "detail"
+        },
+        {
+          "question": "Where does Mimi sleep?",
+          "answer": "in a basket by the window",
+          "type": "detail"
+        },
+        {
+          "question": "What kind of days does Mimi love?",
+          "answer": "sunny days",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "Going to the Park",
+      "text": "Emma and her mom went to the park. They brought sandwiches for lunch. Emma played on the swings and went down the slide. She saw ducks in the pond and fed them bread crumbs. After playing, Emma and her mom sat under a big tree and ate their lunch.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "Who went to the park with Emma?",
+          "answer": "her mom",
+          "type": "detail"
+        },
+        {
+          "question": "What did they bring for lunch?",
+          "answer": "sandwiches",
+          "type": "detail"
+        },
+        {
+          "question": "What animals did Emma see?",
+          "answer": "ducks",
+          "type": "detail"
+        },
+        {
+          "question": "Where did they eat lunch?",
+          "answer": "under a big tree",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The Magic Garden",
+      "text": "Ben planted seeds in his garden. He watered them every day and waited. After a week, green shoots appeared. Ben was so excited! The plants grew bigger and bigger. Soon there were beautiful flowers of many colors. Ben's mom said his garden was magical because he took such good care of it.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "What did Ben plant?",
+          "answer": "seeds",
+          "type": "detail"
+        },
+        {
+          "question": "How often did Ben water the plants?",
+          "answer": "every day",
+          "type": "detail"
+        },
+        {
+          "question": "What appeared after a week?",
+          "answer": "green shoots",
+          "type": "detail"
+        },
+        {
+          "question": "Why was the garden magical?",
+          "answer": "because Ben took good care of it",
+          "type": "inference"
+        }
+      ]
+    },
+    {
+      "title": "The Birthday Surprise",
+      "text": "Today is Lucy's birthday. Her family planned a surprise party. They decorated the house with balloons and streamers. Lucy's friends came over with presents. They played games and ate chocolate cake. Lucy blew out seven candles and made a wish. It was the best birthday ever!",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "How old is Lucy turning?",
+          "answer": "seven",
+          "type": "inference"
+        },
+        {
+          "question": "What decorations did they use?",
+          "answer": "balloons and streamers",
+          "type": "detail"
+        },
+        {
+          "question": "What kind of cake did they eat?",
+          "answer": "chocolate cake",
+          "type": "detail"
+        },
+        {
+          "question": "What did Lucy do with the candles?",
+          "answer": "blew them out and made a wish",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The Friendly Dog",
+      "text": "Max is a big brown dog who lives next door. He has a long tail that wags when he's happy. Every morning, Max barks hello to the mailman. He loves to chase butterflies in the yard. When children walk by, Max sits and waits for them to pet him. He is the friendliest dog on the street.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "What color is Max?",
+          "answer": "brown",
+          "type": "detail"
+        },
+        {
+          "question": "Who does Max bark hello to?",
+          "answer": "the mailman",
+          "type": "detail"
+        },
+        {
+          "question": "What does Max like to chase?",
+          "answer": "butterflies",
+          "type": "detail"
+        },
+        {
+          "question": "How do we know Max is friendly?",
+          "answer": "he sits and waits for children to pet him",
+          "type": "inference"
+        }
+      ]
+    },
+    {
+      "title": "Making Cookies",
+      "text": "Anna helps her grandma make cookies. First, they mix flour, sugar, and eggs in a big bowl. Anna gets to crack the eggs carefully. Then they roll the dough and use cookie cutters to make fun shapes. They put the cookies in the oven and wait. Soon the kitchen smells wonderful! The warm cookies taste delicious.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "Who helps make cookies?",
+          "answer": "Anna",
+          "type": "detail"
+        },
+        {
+          "question": "What does Anna get to crack?",
+          "answer": "the eggs",
+          "type": "detail"
+        },
+        {
+          "question": "What do they use to make shapes?",
+          "answer": "cookie cutters",
+          "type": "detail"
+        },
+        {
+          "question": "How do they know the cookies are ready?",
+          "answer": "the kitchen smells wonderful",
+          "type": "inference"
+        }
+      ]
+    },
+    {
+      "title": "The Rainy Day",
+      "text": "It was raining outside, so Sam couldn't go to the playground. He felt sad at first. Then his mom gave him paper and crayons. Sam drew pictures of the sun, his family, and his favorite toys. He made a rainbow with all the colors. When the rain stopped, Sam showed his pictures to his dad. His dad said they were beautiful!",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "Why couldn't Sam go to the playground?",
+          "answer": "it was raining",
+          "type": "detail"
+        },
+        {
+          "question": "What did his mom give him?",
+          "answer": "paper and crayons",
+          "type": "detail"
+        },
+        {
+          "question": "What did Sam draw pictures of?",
+          "answer": "the sun, his family, and his toys",
+          "type": "detail"
+        },
+        {
+          "question": "How did Sam feel at the end?",
+          "answer": "happy",
+          "type": "inference"
+        }
+      ]
+    },
+    {
+      "title": "The Lost Teddy Bear",
+      "text": "Lily took her teddy bear, Mr. Buttons, everywhere. One day at the grocery store, she forgot him in the cart. At bedtime, Lily couldn't find Mr. Buttons anywhere. She looked under her bed and in her toy box. Lily started to cry. Her dad called the store, and they found Mr. Buttons! The next day, they picked him up. Lily hugged him tight and promised never to lose him again.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "What is the teddy bear's name?",
+          "answer": "Mr. Buttons",
+          "type": "detail"
+        },
+        {
+          "question": "Where did Lily forget her teddy bear?",
+          "answer": "in the cart at the grocery store",
+          "type": "detail"
+        },
+        {
+          "question": "What did Lily do when she couldn't find Mr. Buttons?",
+          "answer": "she started to cry",
+          "type": "detail"
+        },
+        {
+          "question": "How did they find Mr. Buttons?",
+          "answer": "her dad called the store",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The School Bus",
+      "text": "Every morning, Jake waits for the big yellow school bus. Mrs. Rose is the friendly bus driver. She always smiles and says good morning to all the children. Jake sits with his friend Tommy. They look out the window and count the red cars they see. When they arrive at school, Mrs. Rose says, 'Have a great day!' Jake loves riding the school bus.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "What color is the school bus?",
+          "answer": "yellow",
+          "type": "detail"
+        },
+        {
+          "question": "Who is the bus driver?",
+          "answer": "Mrs. Rose",
+          "type": "detail"
+        },
+        {
+          "question": "Who does Jake sit with?",
+          "answer": "Tommy",
+          "type": "detail"
+        },
+        {
+          "question": "What do Jake and Tommy count?",
+          "answer": "red cars",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The New Baby Chick",
+      "text": "On the farm, Farmer Joe found a tiny yellow chick. The chick had just hatched from its egg. It was small and fluffy. The chick was looking for its mommy. Farmer Joe helped the chick find the mother hen. The mother hen was so happy to see her baby! She kept the chick warm under her wings. The chick peeped softly and felt safe.",
+      "age_group": "4-5",
+      "questions": [
+        {
+          "question": "What color is the chick?",
+          "answer": "yellow",
+          "type": "detail"
+        },
+        {
+          "question": "Who helped the chick find its mommy?",
+          "answer": "Farmer Joe",
+          "type": "detail"
+        },
+        {
+          "question": "How did the mother hen keep the chick warm?",
+          "answer": "under her wings",
+          "type": "detail"
+        },
+        {
+          "question": "How did the chick feel at the end?",
+          "answer": "safe",
+          "type": "detail"
+        }
+      ]
+    }
+  ]
+}

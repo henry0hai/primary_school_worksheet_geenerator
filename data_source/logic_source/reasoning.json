@@ -1,0 +1,241 @@
+{
+  "reasoning_problems": {
+    "4-5": {
+      "simple_logic": [
+        {
+          "question": "If it's raining, we use an ____",
+          "answer": "umbrella",
+          "type": "completion"
+        },
+        {
+          "question": "If we're hungry, we ____",
+          "answer": "eat",
+          "type": "completion"
+        },
+        {
+          "question": "If it's dark, we turn on the ____",
+          "answer": "light",
+          "type": "completion"
+        },
+        {
+          "question": "If we're thirsty, we ____",
+          "answer": "drink",
+          "type": "completion"
+        },
+        {
+          "question": "If it's cold, we wear a ____",
+          "answer": "coat",
+          "type": "completion"
+        },
+        {
+          "question": "If we're sleepy, we go to ____",
+          "answer": "sleep",
+          "type": "completion"
+        },
+        {
+          "question": "If the ball is round, it can ____",
+          "answer": "roll",
+          "type": "completion"
+        },
+        {
+          "question": "If it's sunny, we might wear ____",
+          "answer": "sunglasses",
+          "type": "completion"
+        },
+        {
+          "question": "If we drop something, it will ____",
+          "answer": "fall",
+          "type": "completion"
+        },
+        {
+          "question": "If we plant a seed, it will ____",
+          "answer": "grow",
+          "type": "completion"
+        },
+        {
+          "question": "If we're hot, we want something ____",
+          "answer": "cool",
+          "type": "completion"
+        }
+      ]
+    },
+    "6-7": {
+      "simple_deduction": [
+        {
+          "question": "Tom is taller than Sarah. Sarah is taller than Mike. Who is the shortest?",
+          "answer": "Mike",
+          "type": "comparison"
+        },
+        {
+          "question": "The red box is bigger than the blue box. The blue box is bigger than the green box. Which box is the smallest?",
+          "answer": "green box",
+          "type": "comparison"
+        },
+        {
+          "question": "Anna finished the race before Ben, but after Carol. Who finished first?",
+          "answer": "Carol",
+          "type": "sequence"
+        },
+        {
+          "question": "The cat is in the house. The house is on the street. Where is the cat?",
+          "answer": "on the street",
+          "type": "location"
+        },
+        {
+          "question": "Mary has 3 apples. John has 2 more apples than Mary. How many apples does John have?",
+          "answer": "5",
+          "type": "simple_math"
+        },
+        {
+          "question": "The library opens after the store but before the park. Which opens first?",
+          "answer": "store",
+          "type": "sequence"
+        },
+        {
+          "question": "All dogs have four legs. Buddy is a dog. How many legs does Buddy have?",
+          "answer": "4",
+          "type": "logical_deduction"
+        },
+        {
+          "question": "Lisa's backpack is heavier than Emma's but lighter than Sophie's. Whose backpack is the heaviest?",
+          "answer": "Sophie",
+          "type": "comparison"
+        },
+        {
+          "question": "The pencil is in the desk. The desk is in the classroom. Where is the pencil?",
+          "answer": "in the classroom",
+          "type": "location"
+        },
+        {
+          "question": "If today is Wednesday, what day was yesterday?",
+          "answer": "Tuesday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "If yesterday was Monday, what day is today?",
+          "answer": "Tuesday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "If tomorrow is Saturday, what day is today?",
+          "answer": "Friday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "If today is Sunday, what day will tomorrow be?",
+          "answer": "Monday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "If yesterday was Friday, what day will tomorrow be?",
+          "answer": "Sunday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "School starts on Monday. What day comes before the first day of school?",
+          "answer": "Sunday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "If today is Thursday, what day was it two days ago?",
+          "answer": "Tuesday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "The weekend is Saturday and Sunday. What day comes right after the weekend?",
+          "answer": "Monday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "If today is the last day of the week, what day is today?",
+          "answer": "Sunday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "Pizza day at school is every Friday. If today is pizza day, what day is today?",
+          "answer": "Friday",
+          "type": "time_sequence"
+        },
+        {
+          "question": "If next Wednesday is my birthday, and today is Monday, how many days until my birthday?",
+          "answer": "2 days",
+          "type": "time_sequence"
+        },
+        {
+          "question": "The library is closed on Sunday. If today the library is closed and yesterday it was open, what day is today?",
+          "answer": "Sunday",
+          "type": "time_sequence"
+        }
+      ]
+    },
+    "8-10": {
+      "complex_reasoning": [
+        {
+          "question": "A train leaves at 2:00 PM and takes 45 minutes to reach its destination. What time does it arrive?",
+          "answer": "2:45 PM",
+          "type": "time_calculation"
+        },
+        {
+          "question": "If all birds can fly, and a robin is a bird, can a robin fly?",
+          "answer": "yes",
+          "type": "logical_deduction"
+        },
+        {
+          "question": "Sarah has more books than Tom. Tom has more books than Lisa. Lisa has 5 books. Tom has 8 books. How many books might Sarah have?",
+          "answer": "more than 8",
+          "type": "inequality"
+        },
+        {
+          "question": "Every morning, Jake walks to school. Today is Monday morning. What will Jake do?",
+          "answer": "walk to school",
+          "type": "pattern_application"
+        },
+        {
+          "question": "If it takes 3 minutes to boil one egg, how long does it take to boil 3 eggs in the same pot?",
+          "answer": "3 minutes",
+          "type": "lateral_thinking"
+        },
+        {
+          "question": "A farmer has 15 sheep. All but 9 run away. How many sheep are left?",
+          "answer": "9",
+          "type": "lateral_thinking"
+        },
+        {
+          "question": "If some students are athletes and all athletes are hardworking, what can we say about some students?",
+          "answer": "they are hardworking",
+          "type": "logical_deduction"
+        },
+        {
+          "question": "Emma saves $2 every week. After 6 weeks, she buys a book for $8. How much money does she have left?",
+          "answer": "$4",
+          "type": "multi_step_calculation"
+        },
+        {
+          "question": "In a race, Alex finished before Ben but after Carlos. Diana finished after Alex but before Ben. What is the order from first to last?",
+          "answer": "Carlos, Alex, Diana, Ben",
+          "type": "complex_sequence"
+        },
+        {
+          "question": "If it's true that 'All roses are flowers' and 'Some flowers are red', can we conclude that 'Some roses are red'?",
+          "answer": "no",
+          "type": "logical_deduction"
+        },
+        {
+          "question": "A school starts at 8:30 AM. Students need 15 minutes to get from the bus to class. The bus ride takes 25 minutes. What's the latest the bus can leave home?",
+          "answer": "7:50 AM",
+          "type": "time_calculation"
+        },
+        {
+          "question": "If the pattern is: Monday-1, Tuesday-2, Wednesday-3, what number comes with Friday?",
+          "answer": "5",
+          "type": "pattern_recognition"
+        },
+        {
+          "question": "Three friends share 24 stickers equally. Then each friend gives away 2 stickers. How many stickers does each friend have now?",
+          "answer": "6",
+          "type": "multi_step_calculation"
+        }
+      ]
+    }
+  }
+}

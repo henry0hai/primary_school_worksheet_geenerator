@@ -1,0 +1,854 @@
+{
+  "vocabulary_exercises": {
+    "4-5": [
+      {
+        "word": "big",
+        "choices": [
+          "large",
+          "huge",
+          "tiny"
+        ],
+        "correct_answer": "large"
+      },
+      {
+        "word": "happy",
+        "choices": [
+          "joyful",
+          "sad",
+          "angry"
+        ],
+        "correct_answer": "joyful"
+      },
+      {
+        "word": "fast",
+        "choices": [
+          "quick",
+          "slow",
+          "lazy"
+        ],
+        "correct_answer": "quick"
+      },
+      {
+        "word": "hot",
+        "choices": [
+          "warm",
+          "cold",
+          "freezing"
+        ],
+        "correct_answer": "warm"
+      },
+      {
+        "word": "little",
+        "choices": [
+          "small",
+          "huge",
+          "giant"
+        ],
+        "correct_answer": "small"
+      },
+      {
+        "word": "pretty",
+        "choices": [
+          "beautiful",
+          "ugly",
+          "mean"
+        ],
+        "correct_answer": "beautiful"
+      },
+      {
+        "word": "cold",
+        "choices": [
+          "cool",
+          "hot",
+          "warm"
+        ],
+        "correct_answer": "cool"
+      },
+      {
+        "word": "sad",
+        "choices": [
+          "unhappy",
+          "glad",
+          "excited"
+        ],
+        "correct_answer": "unhappy"
+      },
+      {
+        "word": "tall",
+        "choices": [
+          "high",
+          "short",
+          "low"
+        ],
+        "correct_answer": "high"
+      },
+      {
+        "word": "funny",
+        "choices": [
+          "silly",
+          "serious",
+          "angry"
+        ],
+        "correct_answer": "silly"
+      },
+      {
+        "word": "loud",
+        "choices": [
+          "noisy",
+          "quiet",
+          "soft"
+        ],
+        "correct_answer": "noisy"
+      },
+      {
+        "word": "clean",
+        "choices": [
+          "tidy",
+          "dirty",
+          "messy"
+        ],
+        "correct_answer": "tidy"
+      },
+      {
+        "word": "tired",
+        "choices": [
+          "sleepy",
+          "awake",
+          "excited"
+        ],
+        "correct_answer": "sleepy"
+      }
+    ],
+    "6-7": [
+      {
+        "word": "brave",
+        "choices": [
+          "courageous",
+          "scared",
+          "afraid"
+        ],
+        "correct_answer": "courageous"
+      },
+      {
+        "word": "quiet",
+        "choices": [
+          "silent",
+          "loud",
+          "noisy"
+        ],
+        "correct_answer": "silent"
+      },
+      {
+        "word": "smooth",
+        "choices": [
+          "rough",
+          "bumpy",
+          "even"
+        ],
+        "correct_answer": "even"
+      },
+      {
+        "word": "ancient",
+        "choices": [
+          "old",
+          "new",
+          "modern"
+        ],
+        "correct_answer": "old"
+      },
+      {
+        "word": "clever",
+        "choices": [
+          "smart",
+          "silly",
+          "dumb"
+        ],
+        "correct_answer": "smart"
+      },
+      {
+        "word": "gentle",
+        "choices": [
+          "kind",
+          "rough",
+          "mean"
+        ],
+        "correct_answer": "kind"
+      },
+      {
+        "word": "difficult",
+        "choices": [
+          "hard",
+          "easy",
+          "simple"
+        ],
+        "correct_answer": "hard"
+      },
+      {
+        "word": "strange",
+        "choices": [
+          "weird",
+          "normal",
+          "usual"
+        ],
+        "correct_answer": "weird"
+      },
+      {
+        "word": "polite",
+        "choices": [
+          "respectful",
+          "rude",
+          "mean"
+        ],
+        "correct_answer": "respectful"
+      },
+      {
+        "word": "eager",
+        "choices": [
+          "excited",
+          "bored",
+          "tired"
+        ],
+        "correct_answer": "excited"
+      },
+      {
+        "word": "sturdy",
+        "choices": [
+          "strong",
+          "weak",
+          "fragile"
+        ],
+        "correct_answer": "strong"
+      },
+      {
+        "word": "familiar",
+        "choices": [
+          "known",
+          "strange",
+          "foreign"
+        ],
+        "correct_answer": "known"
+      },
+      {
+        "word": "generous",
+        "choices": [
+          "giving",
+          "selfish",
+          "greedy"
+        ],
+        "correct_answer": "giving"
+      }
+    ],
+    "8-10": [
+      {
+        "word": "enormous",
+        "choices": [
+          "huge",
+          "tiny",
+          "average"
+        ],
+        "correct_answer": "huge"
+      },
+      {
+        "word": "investigate",
+        "choices": [
+          "examine",
+          "ignore",
+          "avoid"
+        ],
+        "correct_answer": "examine"
+      },
+      {
+        "word": "magnificent",
+        "choices": [
+          "wonderful",
+          "terrible",
+          "ordinary"
+        ],
+        "correct_answer": "wonderful"
+      },
+      {
+        "word": "cautious",
+        "choices": [
+          "careful",
+          "reckless",
+          "careless"
+        ],
+        "correct_answer": "careful"
+      },
+      {
+        "word": "transparent",
+        "choices": [
+          "clear",
+          "opaque",
+          "solid"
+        ],
+        "correct_answer": "clear"
+      },
+      {
+        "word": "accumulate",
+        "choices": [
+          "gather",
+          "scatter",
+          "lose"
+        ],
+        "correct_answer": "gather"
+      },
+      {
+        "word": "persevere",
+        "choices": [
+          "continue",
+          "quit",
+          "stop"
+        ],
+        "correct_answer": "continue"
+      },
+      {
+        "word": "elaborate",
+        "choices": [
+          "detailed",
+          "simple",
+          "plain"
+        ],
+        "correct_answer": "detailed"
+      },
+      {
+        "word": "diminish",
+        "choices": [
+          "decrease",
+          "increase",
+          "grow"
+        ],
+        "correct_answer": "decrease"
+      },
+      {
+        "word": "reluctant",
+        "choices": [
+          "unwilling",
+          "eager",
+          "excited"
+        ],
+        "correct_answer": "unwilling"
+      },
+      {
+        "word": "astute",
+        "choices": [
+          "clever",
+          "foolish",
+          "confused"
+        ],
+        "correct_answer": "clever"
+      },
+      {
+        "word": "abundant",
+        "choices": [
+          "plentiful",
+          "scarce",
+          "rare"
+        ],
+        "correct_answer": "plentiful"
+      },
+      {
+        "word": "demonstrate",
+        "choices": [
+          "show",
+          "hide",
+          "conceal"
+        ],
+        "correct_answer": "show"
+      }
+    ]
+  },
+  "sentence_building": {
+    "4-5": [
+      {
+        "sentence": "The cat is ____.",
+        "choices": [
+          "sleeping",
+          "running",
+          "eating"
+        ],
+        "correct_answer": "sleeping"
+      },
+      {
+        "sentence": "I like to ____ with my friends.",
+        "choices": [
+          "play",
+          "read",
+          "sing"
+        ],
+        "correct_answer": "play"
+      },
+      {
+        "sentence": "The sun is ____.",
+        "choices": [
+          "bright",
+          "hot",
+          "yellow"
+        ],
+        "correct_answer": "bright"
+      },
+      {
+        "sentence": "Birds can ____.",
+        "choices": [
+          "fly",
+          "swim",
+          "drive"
+        ],
+        "correct_answer": "fly"
+      },
+      {
+        "sentence": "The dog is ____.",
+        "choices": [
+          "barking",
+          "meowing",
+          "chirping"
+        ],
+        "correct_answer": "barking"
+      },
+      {
+        "sentence": "At night, we ____.",
+        "choices": [
+          "sleep",
+          "eat",
+          "play"
+        ],
+        "correct_answer": "sleep"
+      },
+      {
+        "sentence": "The ball is ____.",
+        "choices": [
+          "round",
+          "square",
+          "flat"
+        ],
+        "correct_answer": "round"
+      },
+      {
+        "sentence": "Fish live in ____.",
+        "choices": [
+          "water",
+          "trees",
+          "houses"
+        ],
+        "correct_answer": "water"
+      },
+      {
+        "sentence": "We use our ____ to see.",
+        "choices": [
+          "eyes",
+          "ears",
+          "nose"
+        ],
+        "correct_answer": "eyes"
+      },
+      {
+        "sentence": "We use our ____ to hear.",
+        "choices": [
+          "eyes",
+          "ears",
+          "nose"
+        ],
+        "correct_answer": "ears"
+      },
+      {
+        "sentence": "We use our ____ to smell.",
+        "choices": [
+          "eyes",
+          "ears",
+          "nose"
+        ],
+        "correct_answer": "nose"
+      },
+      {
+        "sentence": "The cake is ____.",
+        "choices": [
+          "sweet",
+          "sour",
+          "bitter"
+        ],
+        "correct_answer": "sweet"
+      },
+      {
+        "sentence": "I like to ____ books.",
+        "choices": [
+          "read",
+          "write",
+          "draw"
+        ],
+        "correct_answer": "read"
+      },
+      {
+        "sentence": "The sky is ____ during the day.",
+        "choices": [
+          "blue",
+          "green",
+          "red"
+        ],
+        "correct_answer": "blue"
+      },
+      {
+        "sentence": "We can ____ with our hands.",
+        "choices": [
+          "clap",
+          "jump",
+          "run"
+        ],
+        "correct_answer": "clap"
+      }
+    ],
+    "6-7": [
+      {
+        "sentence": "Yesterday, we ____ to the zoo.",
+        "choices": [
+          "went",
+          "walked",
+          "drove"
+        ],
+        "correct_answer": "went"
+      },
+      {
+        "sentence": "The flower smells ____.",
+        "choices": [
+          "sweet",
+          "nice",
+          "lovely"
+        ],
+        "correct_answer": "sweet"
+      },
+      {
+        "sentence": "After school, I always ____ my homework.",
+        "choices": [
+          "do",
+          "finish",
+          "complete"
+        ],
+        "correct_answer": "do"
+      },
+      {
+        "sentence": "The library is very ____.",
+        "choices": [
+          "quiet",
+          "peaceful",
+          "silent"
+        ],
+        "correct_answer": "quiet"
+      },
+      {
+        "sentence": "During winter, the weather is ____.",
+        "choices": [
+          "cold",
+          "freezing",
+          "chilly"
+        ],
+        "correct_answer": "cold"
+      },
+      {
+        "sentence": "The teacher ____ the students about science.",
+        "choices": [
+          "taught",
+          "told",
+          "showed"
+        ],
+        "correct_answer": "taught"
+      },
+      {
+        "sentence": "My grandmother ____ delicious cookies.",
+        "choices": [
+          "bakes",
+          "makes",
+          "cooks"
+        ],
+        "correct_answer": "bakes"
+      },
+      {
+        "sentence": "The mountain was very ____ to climb.",
+        "choices": [
+          "difficult",
+          "hard",
+          "tough"
+        ],
+        "correct_answer": "difficult"
+      },
+      {
+        "sentence": "The butterfly's wings are ____.",
+        "choices": [
+          "colorful",
+          "pretty",
+          "beautiful"
+        ],
+        "correct_answer": "colorful"
+      },
+      {
+        "sentence": "The teacher ____ the students about science.",
+        "choices": [
+          "taught",
+          "told",
+          "showed"
+        ],
+        "correct_answer": "taught"
+      },
+      {
+        "sentence": "The sun ____ brightly in the sky.",
+        "choices": [
+          "shines",
+          "glows",
+          "lights"
+        ],
+        "correct_answer": "shines"
+      },
+      {
+        "sentence": "The puppy is very ____.",
+        "choices": [
+          "playful",
+          "active",
+          "energetic"
+        ],
+        "correct_answer": "playful"
+      },
+      {
+        "sentence": "I like to ____ stories before bed.",
+        "choices": [
+          "read",
+          "tell",
+          "write"
+        ],
+        "correct_answer": "read"
+      }
+    ],
+    "8-10": [
+      {
+        "sentence": "The scientist ____ an important discovery.",
+        "choices": [
+          "made",
+          "found",
+          "achieved"
+        ],
+        "correct_answer": "made"
+      },
+      {
+        "sentence": "Despite the rain, the children ____ playing outside.",
+        "choices": [
+          "continued",
+          "kept",
+          "enjoyed"
+        ],
+        "correct_answer": "continued"
+      },
+      {
+        "sentence": "The ancient castle was ____ on top of the hill.",
+        "choices": [
+          "located",
+          "built",
+          "situated"
+        ],
+        "correct_answer": "located"
+      },
+      {
+        "sentence": "The detective will ____ the mysterious case.",
+        "choices": [
+          "investigate",
+          "examine",
+          "solve"
+        ],
+        "correct_answer": "investigate"
+      },
+      {
+        "sentence": "The athlete's performance was ____.",
+        "choices": [
+          "exceptional",
+          "outstanding",
+          "impressive"
+        ],
+        "correct_answer": "exceptional"
+      },
+      {
+        "sentence": "The student ____ to understand the complex problem.",
+        "choices": [
+          "struggled",
+          "tried",
+          "attempted"
+        ],
+        "correct_answer": "struggled"
+      },
+      {
+        "sentence": "The explorer ____ many new territories.",
+        "choices": [
+          "discovered",
+          "found",
+          "located"
+        ],
+        "correct_answer": "discovered"
+      },
+      {
+        "sentence": "The committee will ____ the proposal carefully.",
+        "choices": [
+          "evaluate",
+          "review",
+          "examine"
+        ],
+        "correct_answer": "evaluate"
+      },
+      {
+        "sentence": "The artist's work was ____ by critics.",
+        "choices": [
+          "praised",
+          "admired",
+          "appreciated"
+        ],
+        "correct_answer": "praised"
+      },
+      {
+        "sentence": "The novel was ____ by readers worldwide.",
+        "choices": [
+          "loved",
+          "enjoyed",
+          "appreciated"
+        ],
+        "correct_answer": "loved"
+      },
+      {
+        "sentence": "The conference will ____ experts from various fields.",
+        "choices": [
+          "feature",
+          "include",
+          "showcase"
+        ],
+        "correct_answer": "feature"
+      },
+      {
+        "sentence": "The team will ____ the project next month.",
+        "choices": [
+          "launch",
+          "start",
+          "begin"
+        ],
+        "correct_answer": "launch"
+      },
+      {
+        "sentence": "The lecture was ____ and informative.",
+        "choices": [
+          "engaging",
+          "interesting",
+          "captivating"
+        ],
+        "correct_answer": "engaging"
+      }
+    ]
+  },
+  "word_definitions": {
+    "4-5": [
+      {
+        "definition": "An animal that says 'moo' and gives milk",
+        "choices": [
+          "cow",
+          "pig",
+          "sheep"
+        ],
+        "correct_answer": "cow"
+      },
+      {
+        "definition": "Something we use to write that has lead inside",
+        "choices": [
+          "pencil",
+          "crayon",
+          "marker"
+        ],
+        "correct_answer": "pencil"
+      },
+      {
+        "definition": "The meal we eat in the morning",
+        "choices": [
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "correct_answer": "breakfast"
+      },
+      {
+        "definition": "A place where sick people go to get better",
+        "choices": [
+          "hospital",
+          "school",
+          "store"
+        ],
+        "correct_answer": "hospital"
+      }
+    ],
+    "6-7": [
+      {
+        "definition": "A person who helps sick animals",
+        "choices": [
+          "veterinarian",
+          "doctor",
+          "teacher"
+        ],
+        "correct_answer": "veterinarian"
+      },
+      {
+        "definition": "A tool used to see things that are far away",
+        "choices": [
+          "telescope",
+          "microscope",
+          "binoculars"
+        ],
+        "correct_answer": "telescope"
+      },
+      {
+        "definition": "When water turns into ice",
+        "choices": [
+          "freezing",
+          "melting",
+          "boiling"
+        ],
+        "correct_answer": "freezing"
+      },
+      {
+        "definition": "A story that teaches a lesson",
+        "choices": [
+          "fable",
+          "poem",
+          "song"
+        ],
+        "correct_answer": "fable"
+      }
+    ],
+    "8-10": [
+      {
+        "definition": "The study of stars, planets, and space",
+        "choices": [
+          "astronomy",
+          "biology",
+          "geology"
+        ],
+        "correct_answer": "astronomy"
+      },
+      {
+        "definition": "To make something better or fix it",
+        "choices": [
+          "improve",
+          "destroy",
+          "ignore"
+        ],
+        "correct_answer": "improve"
+      },
+      {
+        "definition": "A person who writes books",
+        "choices": [
+          "author",
+          "editor",
+          "publisher"
+        ],
+        "correct_answer": "author"
+      },
+      {
+        "definition": "Something that is passed down from grandparents to grandchildren",
+        "choices": [
+          "heritage",
+          "gift",
+          "tradition"
+        ],
+        "correct_answer": "heritage"
+      }
+    ]
+  }
+}

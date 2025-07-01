@@ -1,0 +1,69 @@
+{
+  "operation_settings": {
+    "4-5": {
+      "addition": {
+        "simple": true,
+        "description": "Single digit addition with sums ≤ 10"
+      },
+      "subtraction": {
+        "simple": true,
+        "ensure_positive": true,
+        "description": "Simple subtraction with positive results"
+      }
+    },
+    "6-7": {
+      "addition": {
+        "simple": false,
+        "description": "Two-digit addition"
+      },
+      "subtraction": {
+        "simple": true,
+        "ensure_positive": true,
+        "description": "Two-digit subtraction with positive results"
+      },
+      "multiplication": {
+        "simple": true,
+        "tables": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "description": "Simple multiplication tables"
+      }
+    },
+    "8-10": {
+      "addition": {
+        "simple": false,
+        "description": "Two and three-digit addition"
+      },
+      "subtraction": {
+        "simple": false,
+        "description": "Two and three-digit subtraction"
+      },
+      "multiplication": {
+        "simple": false,
+        "description": "Multiplication tables up to 12"
+      },
+      "division": {
+        "simple": true,
+        "max_divisor": 12,
+        "description": "Division with whole number results"
+      }
+    }
+  },
+  "number_ranges": {
+    "4-5": {
+      "min": 1,
+      "max": 10
+    },
+    "6-7": {
+      "min": 1,
+      "max": 50
+    },
+    "8-10": {
+      "min": 1,
+      "max": 100
+    }
+  }
+}

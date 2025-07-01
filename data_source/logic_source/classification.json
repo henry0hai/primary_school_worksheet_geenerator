@@ -1,0 +1,452 @@
+{
+  "classification_problems": {
+    "4-5": {
+      "simple_categories": [
+        {
+          "category": "animals",
+          "correct_items": [
+            "cat",
+            "dog",
+            "bird",
+            "fish",
+            "rabbit",
+            "mouse",
+            "bear"
+          ],
+          "wrong_items": [
+            "apple",
+            "car",
+            "book",
+            "chair",
+            "ball"
+          ]
+        },
+        {
+          "category": "colors",
+          "correct_items": [
+            "red",
+            "blue",
+            "green",
+            "yellow",
+            "purple",
+            "orange",
+            "pink"
+          ],
+          "wrong_items": [
+            "cat",
+            "book",
+            "car",
+            "tree",
+            "house"
+          ]
+        },
+        {
+          "category": "fruits",
+          "correct_items": [
+            "apple",
+            "banana",
+            "orange",
+            "grape",
+            "strawberry",
+            "peach"
+          ],
+          "wrong_items": [
+            "cat",
+            "car",
+            "book",
+            "chair",
+            "ball"
+          ]
+        },
+        {
+          "category": "toys",
+          "correct_items": [
+            "ball",
+            "doll",
+            "car",
+            "block",
+            "puzzle"
+          ],
+          "wrong_items": [
+            "apple",
+            "cat",
+            "tree",
+            "chair",
+            "book"
+          ]
+        },
+        {
+          "category": "body_parts",
+          "correct_items": [
+            "hand",
+            "foot",
+            "eye",
+            "nose",
+            "ear",
+            "mouth",
+            "arm"
+          ],
+          "wrong_items": [
+            "apple",
+            "car",
+            "book",
+            "tree",
+            "ball"
+          ]
+        },
+        {
+          "category": "clothing",
+          "correct_items": [
+            "shirt",
+            "pants",
+            "shoes",
+            "hat",
+            "socks",
+            "dress"
+          ],
+          "wrong_items": [
+            "cat",
+            "apple",
+            "car",
+            "book",
+            "tree"
+          ]
+        },
+        {
+          "category": "food",
+          "correct_items": [
+            "bread",
+            "milk",
+            "cheese",
+            "egg",
+            "rice",
+            "soup"
+          ],
+          "wrong_items": [
+            "car",
+            "book",
+            "chair",
+            "ball",
+            "tree"
+          ]
+        }
+      ]
+    },
+    "6-7": {
+      "intermediate_categories": [
+        {
+          "category": "even_numbers",
+          "correct_items": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "10",
+            "12",
+            "14"
+          ],
+          "wrong_items": [
+            "1",
+            "3",
+            "5",
+            "7",
+            "9",
+            "11",
+            "13"
+          ]
+        },
+        {
+          "category": "school_supplies",
+          "correct_items": [
+            "pencil",
+            "eraser",
+            "ruler",
+            "notebook",
+            "crayon"
+          ],
+          "wrong_items": [
+            "apple",
+            "car",
+            "tree",
+            "cat",
+            "house"
+          ]
+        },
+        {
+          "category": "transportation",
+          "correct_items": [
+            "car",
+            "bus",
+            "train",
+            "airplane",
+            "bicycle"
+          ],
+          "wrong_items": [
+            "apple",
+            "cat",
+            "tree",
+            "book",
+            "chair"
+          ]
+        },
+        {
+          "category": "weather_words",
+          "correct_items": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "snowy",
+            "windy"
+          ],
+          "wrong_items": [
+            "happy",
+            "red",
+            "big",
+            "fast",
+            "loud"
+          ]
+        },
+        {
+          "category": "musical_instruments",
+          "correct_items": [
+            "piano",
+            "guitar",
+            "drum",
+            "flute",
+            "violin",
+            "trumpet"
+          ],
+          "wrong_items": [
+            "book",
+            "chair",
+            "apple",
+            "car",
+            "tree"
+          ]
+        },
+        {
+          "category": "sports_equipment",
+          "correct_items": [
+            "ball",
+            "bat",
+            "racket",
+            "helmet",
+            "glove",
+            "net"
+          ],
+          "wrong_items": [
+            "pencil",
+            "book",
+            "apple",
+            "chair",
+            "flower"
+          ]
+        },
+        {
+          "category": "kitchen_items",
+          "correct_items": [
+            "spoon",
+            "plate",
+            "cup",
+            "knife",
+            "bowl",
+            "pot"
+          ],
+          "wrong_items": [
+            "pencil",
+            "book",
+            "ball",
+            "flower",
+            "car"
+          ]
+        },
+        {
+          "category": "emotions",
+          "correct_items": [
+            "happy",
+            "sad",
+            "angry",
+            "excited",
+            "scared",
+            "surprised"
+          ],
+          "wrong_items": [
+            "red",
+            "big",
+            "round",
+            "fast",
+            "hot"
+          ]
+        }
+      ]
+    },
+    "8-10": {
+      "advanced_categories": [
+        {
+          "category": "multiples_of_3",
+          "correct_items": [
+            "3",
+            "6",
+            "9",
+            "12",
+            "15",
+            "18",
+            "21"
+          ],
+          "wrong_items": [
+            "2",
+            "4",
+            "5",
+            "7",
+            "8",
+            "10",
+            "11"
+          ]
+        },
+        {
+          "category": "living_things",
+          "correct_items": [
+            "tree",
+            "cat",
+            "flower",
+            "bird",
+            "fish",
+            "grass"
+          ],
+          "wrong_items": [
+            "car",
+            "rock",
+            "book",
+            "chair",
+            "computer"
+          ]
+        },
+        {
+          "category": "geometric_shapes",
+          "correct_items": [
+            "triangle",
+            "circle",
+            "square",
+            "rectangle",
+            "pentagon"
+          ],
+          "wrong_items": [
+            "red",
+            "big",
+            "fast",
+            "happy",
+            "loud"
+          ]
+        },
+        {
+          "category": "prime_numbers",
+          "correct_items": [
+            "2",
+            "3",
+            "5",
+            "7",
+            "11",
+            "13",
+            "17"
+          ],
+          "wrong_items": [
+            "4",
+            "6",
+            "8",
+            "9",
+            "10",
+            "12",
+            "14"
+          ]
+        },
+        {
+          "category": "planets",
+          "correct_items": [
+            "Earth",
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn",
+            "Mercury"
+          ],
+          "wrong_items": [
+            "Moon",
+            "Sun",
+            "comet",
+            "asteroid",
+            "star"
+          ]
+        },
+        {
+          "category": "renewable_energy",
+          "correct_items": [
+            "solar",
+            "wind",
+            "water",
+            "geothermal",
+            "biomass"
+          ],
+          "wrong_items": [
+            "coal",
+            "oil",
+            "gas",
+            "nuclear",
+            "gasoline"
+          ]
+        },
+        {
+          "category": "continents",
+          "correct_items": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "North America",
+            "South America",
+            "Australia"
+          ],
+          "wrong_items": [
+            "Canada",
+            "Brazil",
+            "China",
+            "France",
+            "Egypt"
+          ]
+        },
+        {
+          "category": "parts_of_speech",
+          "correct_items": [
+            "noun",
+            "verb",
+            "adjective",
+            "adverb",
+            "pronoun"
+          ],
+          "wrong_items": [
+            "sentence",
+            "paragraph",
+            "story",
+            "letter",
+            "word"
+          ]
+        },
+        {
+          "category": "fractions_equal_to_half",
+          "correct_items": [
+            "1/2",
+            "2/4",
+            "3/6",
+            "4/8",
+            "5/10"
+          ],
+          "wrong_items": [
+            "1/3",
+            "2/3",
+            "1/4",
+            "3/4",
+            "2/5"
+          ]
+        }
+      ]
+    }
+  }
+}

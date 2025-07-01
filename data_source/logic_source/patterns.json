@@ -1,0 +1,572 @@
+{
+  "pattern_templates": {
+    "4-5": {
+      "simple_patterns": [
+        {
+          "type": "AB_color",
+          "description": "Two color alternating pattern",
+          "colors": [
+            {
+              "name": "red",
+              "symbol": "🔴",
+              "hex": "#FF0000",
+              "display": "Red Circle",
+              "svg_desc": "circle filled with bright red color",
+              "child_friendly": "big red ball"
+            },
+            {
+              "name": "blue",
+              "symbol": "🔵",
+              "hex": "#0066FF",
+              "display": "Blue Circle",
+              "svg_desc": "circle filled with ocean blue color",
+              "child_friendly": "blue marble"
+            },
+            {
+              "name": "green",
+              "symbol": "🟢",
+              "hex": "#00AA00",
+              "display": "Green Circle",
+              "svg_desc": "circle filled with grass green color",
+              "child_friendly": "green apple"
+            },
+            {
+              "name": "yellow",
+              "symbol": "🟡",
+              "hex": "#FFD700",
+              "display": "Yellow Circle",
+              "svg_desc": "circle filled with sunny yellow color",
+              "child_friendly": "yellow sun"
+            },
+            {
+              "name": "purple",
+              "symbol": "🟣",
+              "hex": "#8A2BE2",
+              "display": "Purple Circle",
+              "svg_desc": "circle filled with royal purple color",
+              "child_friendly": "purple grape"
+            },
+            {
+              "name": "orange",
+              "symbol": "🟠",
+              "hex": "#FF8C00",
+              "display": "Orange Circle",
+              "svg_desc": "circle filled with bright orange color",
+              "child_friendly": "orange fruit"
+            },
+            {
+              "name": "pink",
+              "symbol": "🩷",
+              "hex": "#FF69B4",
+              "display": "Pink Circle",
+              "svg_desc": "circle filled with soft pink color",
+              "child_friendly": "pink flower"
+            }
+          ],
+          "pattern_length": 6
+        },
+        {
+          "type": "AB_shape",
+          "description": "Two shape alternating pattern",
+          "shapes": [
+            {
+              "name": "circle",
+              "symbol": "⭕",
+              "unicode": "●",
+              "display": "Circle",
+              "svg_desc": "perfect round circle with thick outline",
+              "child_friendly": "round ball"
+            },
+            {
+              "name": "square",
+              "symbol": "⬜",
+              "unicode": "■",
+              "display": "Square",
+              "svg_desc": "four-sided square with equal sides",
+              "child_friendly": "building block"
+            },
+            {
+              "name": "triangle",
+              "symbol": "🔺",
+              "unicode": "▲",
+              "display": "Triangle",
+              "svg_desc": "three-sided triangle pointing upward",
+              "child_friendly": "party hat"
+            },
+            {
+              "name": "star",
+              "symbol": "⭐",
+              "unicode": "★",
+              "display": "Star",
+              "svg_desc": "five-pointed star shape",
+              "child_friendly": "twinkling star"
+            },
+            {
+              "name": "heart",
+              "symbol": "❤️",
+              "unicode": "♥",
+              "display": "Heart",
+              "svg_desc": "classic heart shape",
+              "child_friendly": "love heart"
+            }
+          ],
+          "pattern_length": 6
+        },
+        {
+          "type": "AB_number",
+          "description": "Two number alternating pattern",
+          "number_range": {
+            "min": 1,
+            "max": 5
+          },
+          "pattern_length": 6,
+          "visual_style": {
+            "display_type": "colorful_numbers",
+            "colors": [
+              "#FF6B6B",
+              "#4ECDC4",
+              "#45B7D1",
+              "#FFA07A",
+              "#98D8C8"
+            ]
+          }
+        },
+        {
+          "type": "AB_animal",
+          "description": "Two animal alternating pattern",
+          "animals": [
+            {
+              "name": "cat",
+              "symbol": "🐱",
+              "display": "Cat",
+              "sound": "meow",
+              "child_friendly": "kitty"
+            },
+            {
+              "name": "dog",
+              "symbol": "🐶",
+              "display": "Dog",
+              "sound": "woof",
+              "child_friendly": "puppy"
+            },
+            {
+              "name": "cow",
+              "symbol": "🐮",
+              "display": "Cow",
+              "sound": "moo",
+              "child_friendly": "moo cow"
+            },
+            {
+              "name": "pig",
+              "symbol": "🐷",
+              "display": "Pig",
+              "sound": "oink",
+              "child_friendly": "piggy"
+            },
+            {
+              "name": "sheep",
+              "symbol": "🐑",
+              "display": "Sheep",
+              "sound": "baa",
+              "child_friendly": "fluffy sheep"
+            },
+            {
+              "name": "duck",
+              "symbol": "🦆",
+              "display": "Duck",
+              "sound": "quack",
+              "child_friendly": "rubber duck"
+            }
+          ],
+          "pattern_length": 6
+        }
+      ]
+    },
+    "6-7": {
+      "intermediate_patterns": [
+        {
+          "type": "ABC_color",
+          "description": "Three color repeating pattern",
+          "colors": [
+            {
+              "name": "red",
+              "symbol": "🔴",
+              "hex": "#FF0000",
+              "display": "Red Circle",
+              "svg_desc": "vibrant red circle with glossy finish",
+              "child_friendly": "red strawberry",
+              "brightness": "bright"
+            },
+            {
+              "name": "blue",
+              "symbol": "🔵",
+              "hex": "#0066FF",
+              "display": "Blue Circle",
+              "svg_desc": "deep blue circle like ocean water",
+              "child_friendly": "blue blueberry",
+              "brightness": "medium"
+            },
+            {
+              "name": "green",
+              "symbol": "🟢",
+              "hex": "#00AA00",
+              "display": "Green Circle",
+              "svg_desc": "fresh green circle like spring leaves",
+              "child_friendly": "green lime",
+              "brightness": "medium"
+            },
+            {
+              "name": "yellow",
+              "symbol": "🟡",
+              "hex": "#FFD700",
+              "display": "Yellow Circle",
+              "svg_desc": "bright yellow circle like sunshine",
+              "child_friendly": "yellow banana",
+              "brightness": "bright"
+            },
+            {
+              "name": "purple",
+              "symbol": "🟣",
+              "hex": "#8A2BE2",
+              "display": "Purple Circle",
+              "svg_desc": "rich purple circle like royal robes",
+              "child_friendly": "purple eggplant",
+              "brightness": "dark"
+            },
+            {
+              "name": "orange",
+              "symbol": "🟠",
+              "hex": "#FF8C00",
+              "display": "Orange Circle",
+              "svg_desc": "warm orange circle like sunset",
+              "child_friendly": "orange carrot",
+              "brightness": "bright"
+            },
+            {
+              "name": "pink",
+              "symbol": "🩷",
+              "hex": "#FF69B4",
+              "display": "Pink Circle",
+              "svg_desc": "soft pink circle like cotton candy",
+              "child_friendly": "pink flamingo",
+              "brightness": "light"
+            }
+          ],
+          "pattern_length": 9
+        },
+        {
+          "type": "ABC_shape",
+          "description": "Three shape repeating pattern",
+          "shapes": [
+            {
+              "name": "circle",
+              "symbol": "⭕",
+              "unicode": "●",
+              "display": "Circle",
+              "svg_desc": "perfect round circle with smooth edges",
+              "child_friendly": "round wheel",
+              "complexity": "simple"
+            },
+            {
+              "name": "square",
+              "symbol": "⬜",
+              "unicode": "■",
+              "display": "Square",
+              "svg_desc": "square with four equal sides and corners",
+              "child_friendly": "square window",
+              "complexity": "simple"
+            },
+            {
+              "name": "triangle",
+              "symbol": "🔺",
+              "unicode": "▲",
+              "display": "Triangle",
+              "svg_desc": "triangle pointing up like a mountain",
+              "child_friendly": "triangle roof",
+              "complexity": "simple"
+            },
+            {
+              "name": "star",
+              "symbol": "⭐",
+              "unicode": "★",
+              "display": "Star",
+              "svg_desc": "five-pointed star that sparkles",
+              "child_friendly": "bright star",
+              "complexity": "medium"
+            },
+            {
+              "name": "heart",
+              "symbol": "❤️",
+              "unicode": "♥",
+              "display": "Heart",
+              "svg_desc": "curved heart shape for love",
+              "child_friendly": "love heart",
+              "complexity": "medium"
+            },
+            {
+              "name": "hexagon",
+              "symbol": "⬡",
+              "unicode": "⬡",
+              "display": "Hexagon",
+              "svg_desc": "six-sided shape like honeycomb",
+              "child_friendly": "bee house",
+              "complexity": "complex"
+            }
+          ],
+          "pattern_length": 9
+        },
+        {
+          "type": "ABC_items",
+          "description": "Three item repeating pattern",
+          "items": {
+            "colors": [
+              {
+                "name": "red",
+                "symbol": "🔴",
+                "hex": "#FF0000"
+              },
+              {
+                "name": "blue",
+                "symbol": "🔵",
+                "hex": "#0066FF"
+              },
+              {
+                "name": "green",
+                "symbol": "🟢",
+                "hex": "#00AA00"
+              },
+              {
+                "name": "yellow",
+                "symbol": "🟡",
+                "hex": "#FFD700"
+              },
+              {
+                "name": "purple",
+                "symbol": "🟣",
+                "hex": "#8A2BE2"
+              },
+              {
+                "name": "orange",
+                "symbol": "🟠",
+                "hex": "#FF8C00"
+              }
+            ],
+            "shapes": [
+              {
+                "name": "circle",
+                "symbol": "⭕",
+                "unicode": "●"
+              },
+              {
+                "name": "square",
+                "symbol": "⬜",
+                "unicode": "■"
+              },
+              {
+                "name": "triangle",
+                "symbol": "🔺",
+                "unicode": "▲"
+              },
+              {
+                "name": "rectangle",
+                "symbol": "🟪",
+                "unicode": "▬"
+              },
+              {
+                "name": "star",
+                "symbol": "⭐",
+                "unicode": "★"
+              },
+              {
+                "name": "heart",
+                "symbol": "❤️",
+                "unicode": "♥"
+              }
+            ]
+          },
+          "pattern_length": 9
+        },
+        {
+          "type": "number_sequence",
+          "description": "Arithmetic progression",
+          "start_range": {
+            "min": 1,
+            "max": 10
+          },
+          "step_range": {
+            "min": 1,
+            "max": 5
+          },
+          "sequence_length": 5
+        },
+        {
+          "type": "skip_counting",
+          "description": "Skip counting patterns",
+          "start_range": {
+            "min": 1,
+            "max": 8
+          },
+          "skip_range": {
+            "min": 2,
+            "max": 5
+          },
+          "sequence_length": 4
+        }
+      ]
+    },
+    "8-10": {
+      "advanced_patterns": [
+        {
+          "type": "growing_sequence",
+          "description": "Exponential or multiplicative growth",
+          "start_range": {
+            "min": 2,
+            "max": 10
+          },
+          "multiplier_range": {
+            "min": 2,
+            "max": 4
+          },
+          "sequence_length": 4
+        },
+        {
+          "type": "ABCD_pattern",
+          "description": "Four item repeating pattern",
+          "items": {
+            "shapes": [
+              {
+                "name": "circle",
+                "symbol": "⭕",
+                "unicode": "●",
+                "svg_desc": "perfect circle with bold outline",
+                "complexity": "simple"
+              },
+              {
+                "name": "square",
+                "symbol": "⬜",
+                "unicode": "■",
+                "svg_desc": "square with sharp corners",
+                "complexity": "simple"
+              },
+              {
+                "name": "triangle",
+                "symbol": "🔺",
+                "unicode": "▲",
+                "svg_desc": "triangle pointing upward",
+                "complexity": "simple"
+              },
+              {
+                "name": "rectangle",
+                "symbol": "🟪",
+                "unicode": "▬",
+                "svg_desc": "horizontal rectangle shape",
+                "complexity": "medium"
+              },
+              {
+                "name": "star",
+                "symbol": "⭐",
+                "unicode": "★",
+                "svg_desc": "five-pointed star",
+                "complexity": "medium"
+              },
+              {
+                "name": "heart",
+                "symbol": "❤️",
+                "unicode": "♥",
+                "svg_desc": "heart symbol for love",
+                "complexity": "medium"
+              },
+              {
+                "name": "diamond",
+                "symbol": "💎",
+                "unicode": "♦",
+                "svg_desc": "diamond gemstone shape",
+                "complexity": "medium"
+              },
+              {
+                "name": "oval",
+                "symbol": "🥚",
+                "unicode": "○",
+                "svg_desc": "oval egg-like shape",
+                "complexity": "simple"
+              }
+            ]
+          },
+          "pattern_length": 8
+        },
+        {
+          "type": "fibonacci_like",
+          "description": "Sum-based sequences",
+          "start_a_range": {
+            "min": 1,
+            "max": 5
+          },
+          "start_b_range": {
+            "min": 2,
+            "max": 8
+          },
+          "sequence_length": 4
+        },
+        {
+          "type": "large_skip_counting",
+          "description": "Skip counting with larger numbers",
+          "start_range": {
+            "min": 1,
+            "max": 15
+          },
+          "skip_range": {
+            "min": 3,
+            "max": 10
+          },
+          "sequence_length": 5
+        },
+        {
+          "type": "complex_visual_pattern",
+          "description": "Complex patterns combining multiple visual elements",
+          "visual_elements": {
+            "sizes": [
+              "small",
+              "medium",
+              "large"
+            ],
+            "colors": [
+              {
+                "name": "crimson",
+                "symbol": "🔴",
+                "hex": "#DC143C"
+              },
+              {
+                "name": "navy",
+                "symbol": "🔵",
+                "hex": "#000080"
+              },
+              {
+                "name": "forest",
+                "symbol": "🟢",
+                "hex": "#228B22"
+              }
+            ],
+            "shapes": [
+              {
+                "name": "circle",
+                "symbol": "⭕",
+                "unicode": "●"
+              },
+              {
+                "name": "square",
+                "symbol": "⬜",
+                "unicode": "■"
+              },
+              {
+                "name": "triangle",
+                "symbol": "🔺",
+                "unicode": "▲"
+              }
+            ]
+          },
+          "pattern_length": 6
+        }
+      ]
+    }
+  }
+}

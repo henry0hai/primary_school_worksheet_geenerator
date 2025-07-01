@@ -1,0 +1,247 @@
+{
+  "intermediate_stories": [
+    {
+      "title": "The School Garden",
+      "text": "Mrs. Johnson's class decided to plant a garden at school. They planted tomatoes, carrots, and sunflowers. Every day, the students took turns watering the plants. After two months, the tomatoes turned red and the carrots grew big. The sunflowers became very tall, some reaching six feet high. The class was proud of their hard work and shared the vegetables with other classes.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "What vegetables did the class plant?",
+          "answer": "tomatoes and carrots",
+          "type": "detail"
+        },
+        {
+          "question": "How tall did some sunflowers grow?",
+          "answer": "six feet",
+          "type": "detail"
+        },
+        {
+          "question": "How long did it take for the vegetables to grow?",
+          "answer": "two months",
+          "type": "detail"
+        },
+        {
+          "question": "What did the class do with the vegetables?",
+          "answer": "shared them with other classes",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The Lost Puppy",
+      "text": "Sarah found a small puppy in her backyard. The puppy was brown and white with big, sad eyes. It had no collar and looked hungry. Sarah gave the puppy some water and a bowl of dog food. She put up posters around the neighborhood asking if anyone was missing a puppy. Three days later, a family called. They had been looking everywhere for their puppy named Buddy. Sarah was sad to see Buddy go, but happy that he was reunited with his family.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "What colors was the puppy?",
+          "answer": "brown and white",
+          "type": "detail"
+        },
+        {
+          "question": "What did Sarah give the puppy?",
+          "answer": "water and dog food",
+          "type": "detail"
+        },
+        {
+          "question": "What was the puppy's name?",
+          "answer": "Buddy",
+          "type": "detail"
+        },
+        {
+          "question": "How did Sarah feel when Buddy left?",
+          "answer": "sad but happy",
+          "type": "emotion"
+        }
+      ]
+    },
+    {
+      "title": "The Library Adventure",
+      "text": "Maya loved to visit the library every Saturday. She would walk through the tall shelves filled with books about dinosaurs, space, and fairy tales. The librarian, Mrs. Chen, always helped Maya find new books to read. One day, Maya discovered a book about young inventors. She was so inspired that she decided to create her own invention. Maya spent weeks designing a special bookmark that would light up in the dark. She was proud of her creation and shared it with all her friends at school.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "When did Maya visit the library?",
+          "answer": "every Saturday",
+          "type": "detail"
+        },
+        {
+          "question": "Who helped Maya find books?",
+          "answer": "Mrs. Chen",
+          "type": "detail"
+        },
+        {
+          "question": "What book inspired Maya?",
+          "answer": "a book about young inventors",
+          "type": "detail"
+        },
+        {
+          "question": "What did Maya invent?",
+          "answer": "a bookmark that lights up in the dark",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The Science Fair Project",
+      "text": "Alex wanted to do something special for the science fair. He decided to study how plants grow with different types of music. Alex planted three bean seeds in separate pots. He played classical music to the first plant, rock music to the second, and no music to the third plant. After four weeks, he measured all three plants. The plant that listened to classical music grew the tallest, followed by the rock music plant. The plant with no music grew the least. Alex won second place at the science fair for his creative experiment.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "What did Alex study for his project?",
+          "answer": "how plants grow with different types of music",
+          "type": "detail"
+        },
+        {
+          "question": "How many bean seeds did Alex plant?",
+          "answer": "three",
+          "type": "detail"
+        },
+        {
+          "question": "Which plant grew the tallest?",
+          "answer": "the one that listened to classical music",
+          "type": "detail"
+        },
+        {
+          "question": "What place did Alex win at the science fair?",
+          "answer": "second place",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The Community Clean-Up",
+      "text": "The students at Maple Elementary decided to help clean up their neighborhood park. They brought trash bags, gloves, and recycling bins. Emma's group collected cans and bottles for recycling. David's team picked up paper and plastic waste. Sofia's group planted new flowers near the playground. By the end of the day, they had filled twelve trash bags and planted twenty colorful flowers. The park looked beautiful again, and the community thanked the students for their hard work.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "What did Emma's group collect?",
+          "answer": "cans and bottles for recycling",
+          "type": "detail"
+        },
+        {
+          "question": "Where did Sofia's group plant flowers?",
+          "answer": "near the playground",
+          "type": "detail"
+        },
+        {
+          "question": "How many trash bags did they fill?",
+          "answer": "twelve",
+          "type": "detail"
+        },
+        {
+          "question": "Why did the community thank the students?",
+          "answer": "for their hard work cleaning the park",
+          "type": "inference"
+        }
+      ]
+    },
+    {
+      "title": "The Mysterious Footprints",
+      "text": "After a snowstorm, Jenny noticed strange footprints in her backyard. The prints were small and round, leading from the fence to the bird feeder. Jenny was curious about what animal had visited during the night. She asked her grandfather, who was good at tracking animals. He examined the prints carefully and explained that they belonged to a raccoon. Raccoons are nocturnal, which means they are active at night. They often visit bird feeders looking for food. Jenny was excited to learn about her nighttime visitor.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "When did Jenny notice the footprints?",
+          "answer": "after a snowstorm",
+          "type": "detail"
+        },
+        {
+          "question": "What animal made the footprints?",
+          "answer": "a raccoon",
+          "type": "detail"
+        },
+        {
+          "question": "What does nocturnal mean?",
+          "answer": "active at night",
+          "type": "vocabulary"
+        },
+        {
+          "question": "Why do raccoons visit bird feeders?",
+          "answer": "looking for food",
+          "type": "inference"
+        }
+      ]
+    },
+    {
+      "title": "The School Play",
+      "text": "Mrs. Rodriguez's class was preparing for their end-of-year play about space exploration. Marcus played an astronaut, Lisa was the narrator, and Tommy was Mission Control. They practiced for three weeks, learning their lines and rehearsing their movements. Marcus had to remember the most lines because he was the main character. On the night of the performance, all the parents came to watch. The play was a huge success! The audience clapped loudly, and the principal said it was the best school play she had ever seen.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "What was the play about?",
+          "answer": "space exploration",
+          "type": "detail"
+        },
+        {
+          "question": "Who had to remember the most lines?",
+          "answer": "Marcus",
+          "type": "detail"
+        },
+        {
+          "question": "How long did they practice?",
+          "answer": "three weeks",
+          "type": "detail"
+        },
+        {
+          "question": "What did the principal think of the play?",
+          "answer": "it was the best she had ever seen",
+          "type": "detail"
+        }
+      ]
+    },
+    {
+      "title": "The Helpful Robot",
+      "text": "In Mr. Kim's robotics class, students learned to build simple robots. Zoe and her partner Jake decided to create a robot that could help elderly people. Their robot had wheels to move around and a mechanical arm to pick up objects. It could also speak simple words like 'hello' and 'thank you.' The robot took them two months to build and program. When they demonstrated it at the school's invention showcase, many visitors were impressed. The local newspaper even wrote an article about their innovative creation.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "Who did Zoe and Jake want to help with their robot?",
+          "answer": "elderly people",
+          "type": "detail"
+        },
+        {
+          "question": "What could the robot's mechanical arm do?",
+          "answer": "pick up objects",
+          "type": "detail"
+        },
+        {
+          "question": "How long did it take to build the robot?",
+          "answer": "two months",
+          "type": "detail"
+        },
+        {
+          "question": "What happened after the invention showcase?",
+          "answer": "the newspaper wrote an article about it",
+          "type": "sequence"
+        }
+      ]
+    },
+    {
+      "title": "The Weather Station",
+      "text": "Carlos was fascinated by weather and decided to build a weather station for his backyard. With his father's help, he set up instruments to measure temperature, rainfall, and wind speed. Every morning before school, Carlos recorded the weather data in a special notebook. He noticed patterns: rainy days were usually cooler, and windy days often meant storms were coming. After six months of collecting data, Carlos created graphs to show the weather patterns. His teacher was so impressed that she invited him to present his findings to the whole school.",
+      "age_group": "6-7",
+      "questions": [
+        {
+          "question": "What three things did Carlos measure?",
+          "answer": "temperature, rainfall, and wind speed",
+          "type": "detail"
+        },
+        {
+          "question": "When did Carlos record the weather data?",
+          "answer": "every morning before school",
+          "type": "detail"
+        },
+        {
+          "question": "What pattern did Carlos notice about windy days?",
+          "answer": "they often meant storms were coming",
+          "type": "detail"
+        },
+        {
+          "question": "How long did Carlos collect data?",
+          "answer": "six months",
+          "type": "detail"
+        }
+      ]
+    }
+  ]
+}

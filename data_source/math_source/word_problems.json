@@ -1,0 +1,570 @@
+{
+  "word_problems": {
+    "addition": [
+      {
+        "template": "Sarah has {a} apples. Her friend gives her {b} more apples. How many apples does Sarah have now?",
+        "age_groups": [
+          "4-5",
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 1,
+            "max": 20
+          },
+          "b": {
+            "min": 1,
+            "max": 20
+          }
+        }
+      },
+      {
+        "template": "Sunny collected {a} stickers. She found {b} more stickers in her desk. How many stickers does Sunny have in total?",
+        "age_groups": [
+          "4-5",
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 3,
+            "max": 25
+          },
+          "b": {
+            "min": 2,
+            "max": 15
+          }
+        }
+      },
+      {
+        "template": "A bakery made {a} cupcakes in the morning and {b} cupcakes in the afternoon. How many cupcakes did they make in total?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 5,
+            "max": 30
+          },
+          "b": {
+            "min": 3,
+            "max": 25
+          }
+        }
+      },
+      {
+        "template": "The zoo has {a} lions and {b} tigers. How many big cats are there in total?",
+        "age_groups": [
+          "4-5",
+          "6-7"
+        ],
+        "setup": {
+          "a": {
+            "min": 2,
+            "max": 8
+          },
+          "b": {
+            "min": 1,
+            "max": 6
+          }
+        }
+      },
+      {
+        "template": "During the book fair, class A sold {a} books and class B sold {b} books. How many books did they sell together?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 10,
+            "max": 50
+          },
+          "b": {
+            "min": 8,
+            "max": 45
+          }
+        }
+      },
+      {
+        "template": "Tom collected {a} shells at the beach. His sister found {b} more shells. How many shells do they have together?",
+        "age_groups": [
+          "4-5",
+          "6-7"
+        ],
+        "setup": {
+          "a": {
+            "min": 2,
+            "max": 15
+          },
+          "b": {
+            "min": 1,
+            "max": 10
+          }
+        }
+      },
+      {
+        "template": "In the morning, {a} children came to the playground. In the afternoon, {b} more children joined them. How many children were at the playground in total?",
+        "age_groups": [
+          "4-5",
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 5,
+            "max": 25
+          },
+          "b": {
+            "min": 3,
+            "max": 20
+          }
+        }
+      },
+      {
+        "template": "Emma has {a} red crayons and {b} blue crayons. How many crayons does she have in total?",
+        "age_groups": [
+          "4-5",
+          "6-7"
+        ],
+        "setup": {
+          "a": {
+            "min": 1,
+            "max": 12
+          },
+          "b": {
+            "min": 1,
+            "max": 12
+          }
+        }
+      },
+      {
+        "template": "The pet store has {a} puppies and {b} kittens. How many baby animals are there altogether?",
+        "age_groups": [
+          "4-5",
+          "6-7"
+        ],
+        "setup": {
+          "a": {
+            "min": 2,
+            "max": 10
+          },
+          "b": {
+            "min": 1,
+            "max": 8
+          }
+        }
+      }
+    ],
+    "subtraction": [
+      {
+        "template": "There are {a} birds in a tree. {b} birds fly away. How many birds are left?",
+        "age_groups": [
+          "4-5",
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 5,
+            "max": 20
+          },
+          "b": {
+            "min": 1,
+            "max": 15
+          }
+        }
+      },
+      {
+        "template": "Lisa had {a} candies. She ate {b} candies. How many candies does she have left?",
+        "age_groups": [
+          "4-5",
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 8,
+            "max": 30
+          },
+          "b": {
+            "min": 2,
+            "max": 12
+          }
+        }
+      },
+      {
+        "template": "The library had {a} books. They lent out {b} books to students. How many books remain on the shelves?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 15,
+            "max": 100
+          },
+          "b": {
+            "min": 5,
+            "max": 40
+          }
+        }
+      },
+      {
+        "template": "A parking lot had {a} cars. {b} cars left during lunchtime. How many cars are still in the parking lot?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 20,
+            "max": 80
+          },
+          "b": {
+            "min": 8,
+            "max": 30
+          }
+        }
+      },
+      {
+        "template": "Jake had {a} marbles. He gave {b} marbles to his friend. How many marbles does Jake have now?",
+        "age_groups": [
+          "4-5",
+          "6-7"
+        ],
+        "setup": {
+          "a": {
+            "min": 6,
+            "max": 20
+          },
+          "b": {
+            "min": 2,
+            "max": 10
+          }
+        }
+      },
+      {
+        "template": "There were {a} flowers in the garden. A storm destroyed {b} flowers. How many flowers are left?",
+        "age_groups": [
+          "4-5",
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 10,
+            "max": 50
+          },
+          "b": {
+            "min": 3,
+            "max": 20
+          }
+        }
+      },
+      {
+        "template": "Mom baked {a} cookies. The family ate {b} cookies after dinner. How many cookies are left?",
+        "age_groups": [
+          "4-5",
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 12,
+            "max": 40
+          },
+          "b": {
+            "min": 4,
+            "max": 18
+          }
+        }
+      },
+      {
+        "template": "A bus had {a} passengers. At the bus stop, {b} passengers got off. How many passengers remain on the bus?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 15,
+            "max": 60
+          },
+          "b": {
+            "min": 5,
+            "max": 25
+          }
+        }
+      }
+    ],
+    "multiplication": [
+      {
+        "template": "Harry has {a} boxes of crayons. Each box has {b} crayons. How many crayons does Harry have in total?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 2,
+            "max": 8
+          },
+          "b": {
+            "min": 3,
+            "max": 12
+          }
+        }
+      },
+      {
+        "template": "There are {a} children at a party. Each child gets {b} balloons. How many balloons are needed?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 4,
+            "max": 10
+          },
+          "b": {
+            "min": 2,
+            "max": 8
+          }
+        }
+      },
+      {
+        "template": "Jack has {a} groups of marbles with {b} marbles in each group. How many marbles does Jack have?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 3,
+            "max": 9
+          },
+          "b": {
+            "min": 4,
+            "max": 12
+          }
+        }
+      },
+      {
+        "template": "A garden has {a} rows of flowers. Each row has {b} flowers. How many flowers are in the garden?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 3,
+            "max": 12
+          },
+          "b": {
+            "min": 2,
+            "max": 15
+          }
+        }
+      },
+      {
+        "template": "Sarah buys {a} packs of stickers. Each pack contains {b} stickers. How many stickers does she have in total?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 2,
+            "max": 8
+          },
+          "b": {
+            "min": 5,
+            "max": 12
+          }
+        }
+      },
+      {
+        "template": "A classroom has {a} tables. Each table seats {b} students. How many students can sit in the classroom?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 4,
+            "max": 10
+          },
+          "b": {
+            "min": 2,
+            "max": 6
+          }
+        }
+      },
+      {
+        "template": "Ben reads {a} books each week. How many books will he read in {b} weeks?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 2,
+            "max": 8
+          },
+          "b": {
+            "min": 3,
+            "max": 10
+          }
+        }
+      },
+      {
+        "template": "A parking lot has {a} rows of cars. Each row has {b} cars. How many cars are in the parking lot?",
+        "age_groups": [
+          "6-7",
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 3,
+            "max": 8
+          },
+          "b": {
+            "min": 4,
+            "max": 12
+          }
+        }
+      }
+    ],
+    "division": [
+      {
+        "template": "There are {total} cookies to be shared equally among {b} children. How many cookies does each child get?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "b": {
+            "min": 2,
+            "max": 8
+          },
+          "result": {
+            "min": 2,
+            "max": 12
+          }
+        },
+        "note": "total = b * result"
+      },
+      {
+        "template": "A teacher has {total} pencils to distribute equally to {b} students. How many pencils will each student receive?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "b": {
+            "min": 3,
+            "max": 10
+          },
+          "result": {
+            "min": 2,
+            "max": 8
+          }
+        },
+        "note": "total = b * result"
+      },
+      {
+        "template": "There are {total} apples to be packed into {b} boxes equally. How many apples go in each box?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "b": {
+            "min": 2,
+            "max": 6
+          },
+          "result": {
+            "min": 3,
+            "max": 10
+          }
+        },
+        "note": "total = b * result"
+      },
+      {
+        "template": "A pizza is cut into {total} slices. If {b} friends share it equally, how many slices does each friend get?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "b": {
+            "min": 2,
+            "max": 8
+          },
+          "result": {
+            "min": 2,
+            "max": 6
+          }
+        },
+        "note": "total = b * result"
+      },
+      {
+        "template": "A farmer has {total} eggs to put into cartons. Each carton holds {b} eggs. How many cartons does he need?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "b": {
+            "min": 6,
+            "max": 12
+          },
+          "result": {
+            "min": 2,
+            "max": 8
+          }
+        },
+        "note": "total = b * result"
+      }
+    ],
+    "mixed_operations": [
+      {
+        "template": "Anna has {a} stickers. She gives away {b} stickers and then receives {c} more stickers. How many stickers does she have now?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 15,
+            "max": 30
+          },
+          "b": {
+            "min": 3,
+            "max": 12
+          },
+          "c": {
+            "min": 2,
+            "max": 15
+          }
+        }
+      },
+      {
+        "template": "A store has {a} boxes with {b} toys in each box. They sell {c} toys. How many toys are left?",
+        "age_groups": [
+          "8-10"
+        ],
+        "setup": {
+          "a": {
+            "min": 3,
+            "max": 8
+          },
+          "b": {
+            "min": 4,
+            "max": 10
+          },
+          "c": {
+            "min": 5,
+            "max": 20
+          }
+        }
+      }
+    ]
+  }
+}
