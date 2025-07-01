@@ -177,6 +177,10 @@ cython_debug/
 generated_worksheets/
 *.pdf
 
+# Keep sample folder and files
+!sample_worksheets/
+!sample_worksheets/*.pdf
+
 # Demo output files
 demo_worksheets/
 test_*.pdf
