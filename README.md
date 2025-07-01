@@ -187,13 +187,13 @@ This will create sample worksheets for all age groups in the `generated_workshee
 
 ### Adding New Question Types
 
-1. **Math Questions**: Add new methods to `MathGenerator` class in `generators/math_generator.py`
-2. **Logic Questions**: Extend `LogicGenerator` class with new puzzle types in `generators/logic_generator.py`
-3. **Reading Questions**: Create new story templates and question types in `generators/reading_generator.py`
+1. **Math Questions**: Add new methods to `MathGenerator` class in `worksheet_generator/core/math_generator.py`
+2. **Logic Questions**: Extend `LogicGenerator` class with new puzzle types in `worksheet_generator/core/logic_generator.py`
+3. **Reading Questions**: Create new story templates and question types by `ReadingGenerator` class in `worksheet_generator/core/reading_generator.py`
 
 ### Modifying PDF Layout
 
-Edit the `PDFGenerator` class in `pdf_generator_new.py` to:
+Edit the `PDFGenerator` class in `worksheet_generator/output/pdf_generator.py` to:
 - Change fonts, colors, and styling
 - Modify page layout and spacing
 - Add images or decorative elements
@@ -226,7 +226,7 @@ This application helps children develop:
 ## Project Structure 📁
 
 ```
-primary_school_worksheet_geenerator/
+primary_school_worksheet_generator/
 ├── worksheet_generator/         # Main package
 │   ├── __init__.py              # Package exports and convenience functions
 │   ├── core/                    # Core functionality
